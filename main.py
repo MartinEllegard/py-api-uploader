@@ -1,5 +1,4 @@
 import json
-from os.path import isfile
 import requests
 import os
 import glob
